@@ -1,0 +1,8 @@
+__pycache__/
+tests/deps/
+*.elf
+*.o
+build/
+.ufbt/
+.vscode/
+dist/debug/
